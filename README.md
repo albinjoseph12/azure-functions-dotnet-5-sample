@@ -1,4 +1,5 @@
 # Azure Functions .NET 5 Sample Project
+sample
 Sample GitHub Actions CI/CD Pipeline for Azure Function .NET 5 Isolated Process.
 
 YouTube video that walks through this repo is below,
